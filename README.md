@@ -4,6 +4,10 @@ Using a 1.8inch LCD Display Module and 4 buttons to play/pause and skip songs wi
 
 I made this because i wanted to have a Display on the desk that looks cozy and matches the style of my room, also every design i saw of this display are boring so i wanted to have something more complex than usual
 
+Libraries:
+Adafruit_ST7735
+Adafruit_GFX
+SpotifyEsp32 (install as a .zip)
 
 <img width="974" height="847" alt="3D Model Screenshot" src="https://github.com/user-attachments/assets/e5044546-c722-4e16-bd6a-d503e5c6cf6d" />
 
