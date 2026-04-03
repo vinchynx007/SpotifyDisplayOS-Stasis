@@ -1,11 +1,11 @@
 # SpotifyDisplayOS-Stasis
 A display for controlling and watching spotify songs.
-Using a 1.8inch LCD Display Module and 4 buttons to play/pause and skip songs with a ESP32 for the main brain.
+Using a 1.8inch LCD Display Module and 3 buttons to play/pause and skip songs with a ESP32 for the main brain.
 
-I made this because i wanted to have a Display on the desk that looks cozy and matches the style of my room, also every design i saw of this display are boring so i wanted to have something more complex than usual
+I made this because i wanted to have a Display on the desk that looks cozy and matches the style of my room, also every design i saw of this display is boring so i wanted to have something more complex than usual
 
 Libraries:
-Adafruit_ST7735,
+Adafruit_ILI9341,
 Adafruit_GFX,
 SpotifyEsp32 (install as a .zip)
 
@@ -14,6 +14,8 @@ SpotifyEsp32 (install as a .zip)
 <img width="845" height="579" alt="3D Model NoBody Screenshot updated" src="https://github.com/user-attachments/assets/d5e7d2c6-d52a-45b1-a5a4-e2f48cd1e842" />
 
 <img width="814" height="789" alt="wiring_diagram" src="https://github.com/user-attachments/assets/df78372e-fbbd-4ef7-bb40-cb52c46e0782" />
+
+<img width="540" height="722" alt="TestDiagram" src="https://github.com/user-attachments/assets/5522fb42-7fe3-4e5f-8dc8-d1ee619953e9" />
 
 ### Bill of Materials (BOM)
 
