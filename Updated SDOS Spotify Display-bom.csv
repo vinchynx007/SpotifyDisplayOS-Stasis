@@ -1,0 +1,7 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"ESP32 DEVKIT V1","	The main microcontroller unit with integrated wiFi to handle secure https requests to the Spotify API",1,8.09,"https://globalelectronica.cl/5008-tarjetas-de-desarrollo/esp-wroom-32-devkit.html","Globalelectronica.cl"
+"PCB 5x7 Perfored Board","Permanent mounting surface to sold the final circuit",1,3.75,"https://www.mercadolibre.cl/placa-perforada-pcb-5x7cm-fr4-fibra-vidrio-doble-faz--max-/up/MLCU17803975","Mercado Libre"
+"Dupont Jumper Wires (M-M)","Male to Male Jumper Wires to connect the LCD screen",1,3.26,"https://www.mercadolibre.cl/cable-jumper--dupont-machomacho-20-cm-40-unid/up/MLCU66233160","Mercado Libre"
+"Tactile Push Button Switch (6x6x5)","Tactile buttons to pause/play and skip songs on the device",1,3.68,"https://www.mercadolibre.cl/6x6x5mm-2-pin-micro-momentary-push-button-tactile/p/MLC2064270892","Mercado Libre"
+"Potentiometer WH148 10K Ohms","Used to provide tactile control for volume adjustment",1,3.80,"https://articulo.mercadolibre.cl/MLC-2276296310-pack-3-potenciometro-lineal-de-3-pines-modelo-wh148-valores-_JM?attributes=Valor_Potenciómetro_vpp%3AMTBLIG9obXM%3D&quantity=1","Mercado Libre"
+"1.8inch LCD Display Module TFT Screen 128 x 160","Visual Interface to display the Spotify tracks and album art",1,12.12,"https://www.mechatronicstore.cl/pantalla-tft-lcd-de-1-8/","Mechatronic Store"
