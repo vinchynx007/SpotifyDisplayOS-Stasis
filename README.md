@@ -11,9 +11,6 @@ SpotifyEsp32 (install as a .zip)
 
 <img width="842" height="716" alt="NewCaseAll" src="https://github.com/user-attachments/assets/814d65d0-c3f8-4ca7-bf99-6bc0c8f061d2" />
 <img width="842" height="716" alt="NewNoCaseAll" src="https://github.com/user-attachments/assets/42e0110c-ec80-4591-9978-7363521a52d4" />
-
-<img width="814" height="789" alt="wiring_diagram" src="https://github.com/user-attachments/assets/df78372e-fbbd-4ef7-bb40-cb52c46e0782" />
-
 <img width="540" height="722" alt="TestDiagram" src="https://github.com/user-attachments/assets/5522fb42-7fe3-4e5f-8dc8-d1ee619953e9" />
 
 ### Bill of Materials (BOM)
