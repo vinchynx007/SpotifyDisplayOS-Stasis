@@ -9,6 +9,10 @@ Adafruit_ILI9341,
 Adafruit_GFX,
 SpotifyEsp32 (install as a .zip)
 
+<img width="842" height="716" alt="NewCaseAll" src="https://github.com/user-attachments/assets/93798d1e-ea2c-4d18-bf6c-5cde03f6e5d4" />
+
+<img width="857" height="723" alt="NewNoCaseAll" src="https://github.com/user-attachments/assets/69b61552-abaa-4816-b34b-bdb3ee4819cc" />
+
 <img width="974" height="847" alt="3D Model Screenshot" src="https://github.com/user-attachments/assets/e5044546-c722-4e16-bd6a-d503e5c6cf6d" />
 
 <img width="845" height="579" alt="3D Model NoBody Screenshot updated" src="https://github.com/user-attachments/assets/d5e7d2c6-d52a-45b1-a5a4-e2f48cd1e842" />
